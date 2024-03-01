@@ -1,0 +1,14 @@
+Jadi saya membuat JavaScript di atas dengan mengimplementasikan fungsi untuk membuat dropdown menu pada elemen navbar berfungsi dengan baik. 
+Berikut adalah penjelasan singkat tentang fitur yang saya buat dan cara mengaksesnya/menggunakannya
+
+Fitur yang Dibuat :
+Dropdown Menu Interaktif: Ketika pengguna mengklik tombol dropdown pada elemen navbar, menu dropdown akan muncul atau disembunyikan.
+Penutup Otomatis: Menu dropdown akan secara otomatis ditutup ketika pengguna mengklik di luar area menu dropdown.
+
+Cara Mengakses Fitur :
+Klik pada tombol dropdown di elemen navbar yang memiliki kelas .dropdown.
+Dropdown menu akan muncul atau disembunyikan.
+
+Penutup Otomatis :
+Klik di luar area menu dropdown setelah menu dropdown ditampilkan.
+Menu dropdown akan otomatis ditutup.
